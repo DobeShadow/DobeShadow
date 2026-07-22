@@ -13,6 +13,9 @@
     <a href="https://ikaitokuroba.github.io/">
         <img src="https://img.shields.io/badge/Blog-0A0A0A.svg?logo=dev-dot-to&logoColor=white&style=for-the-badge" />
     </a>
+    <a href="http://www.minemc.asia/">
+        <img src="https://img.shields.io/badge/MINEMC-FF69B4.svg?logo=curseforge&logoColor=white&style=for-the-badge" />
+    </a>
 </div>
 
 
