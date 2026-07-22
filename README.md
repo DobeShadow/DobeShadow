@@ -4,13 +4,22 @@
     <a href="https://github.com/DobeShadow">
         <img src="https://img.shields.io/badge/GitHub-0A0A0A.svg?logo=github&logoColor=white&style=for-the-badge" />
     </a>
+    <a href="https://space.bilibili.com/500599397">
+        <img src="https://img.shields.io/badge/Bilibili-00A1D6.svg?logo=bilibili&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="mailto:3064838649@qq.com">
+        <img src="https://img.shields.io/badge/Email-0A0A0A.svg?logo=gmail&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://ikaitokuroba.github.io/">
+        <img src="https://img.shields.io/badge/Blog-0A0A0A.svg?logo=dev-dot-to&logoColor=white&style=for-the-badge" />
+    </a>
 </div>
 
 
 ## 👨‍💻 About Me
 
 - 🎮 I develop Minecraft plugins with Paper/Bukkit
-- 🏰 I run a Minecraft survival server — **MINEMC**
+- 🏰 I run a Minecraft survival server — [**MINEMC**](http://www.minemc.asia/)
 - ✨ I build things with vibecoding
 
 
