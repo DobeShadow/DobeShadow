@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, there! I'm DobeShadow!
 
-<!--
-**DobeShadow/DobeShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <a href="https://github.com/DobeShadow">
+        <img src="https://img.shields.io/badge/GitHub-0A0A0A.svg?logo=github&logoColor=white&style=for-the-badge" />
+    </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎮 I develop Minecraft plugins with Paper/Bukkit
+- 🏰 I run a Minecraft survival server — **MINEMC**
+- ✨ I build things with vibecoding
+
+
+## 🛠 Tech Stack
+
+<div>
+    <img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white&style=for-the-badge" />
+</div>
+
+
+## 📦 Projects
+
+- **[CustomBoss](https://github.com/DobeShadow/CustomBoss)** — Configurable boss plugin with timed spawns, custom drops & server-wide broadcasts
+- **[ItemBank](https://github.com/DobeShadow/ItemBank)** — Item banking system with shop, lottery & storage
+- **[FreeResidence](https://github.com/DobeShadow/FreeResidence)** — Free land-claiming plugin for players
+- **[GemForge](https://github.com/DobeShadow/GemForge)** — Gem drop & forging system for equipment enhancement
+
