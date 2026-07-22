@@ -16,6 +16,9 @@
     <a href="http://www.minemc.asia/">
         <img src="https://img.shields.io/badge/MINEMC-FF69B4.svg?logo=curseforge&logoColor=white&style=for-the-badge" />
     </a>
+    <a href="https://ifdian.net/a/dobeshadow">
+    <img src="https://img.shields.io/badge/爱发电-946CE6.svg?logo=buymeacoffee&logoColor=white&style=for-the-badge" />
+    </a>
 </div>
 
 
