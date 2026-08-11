@@ -22,8 +22,8 @@
 ## 👨‍💻 About Me
 
 - 🎮 I develop Minecraft plugins with Paper/Bukkit & Nukkit
-- 🏰 I run a Minecraft survival server — [**MINEMC**](http://www.minemc.asia/)
-- ✨ I build things with vibecoding
+- 🏰 I run a Minecraft survival server 🛡️ [**MINEMC**](http://www.minemc.asia/)
+- 💡 I build things with vibecoding
 
 
 ## 🛠 Tech Stack
@@ -39,9 +39,11 @@
 
 ## 📦 Projects
 
-- **[CustomBoss](https://github.com/DobeShadow/CustomBoss)** — Configurable boss plugin with timed spawns, custom drops & server-wide broadcasts
-- **[ItemBank](https://github.com/DobeShadow/ItemBank)** — Item banking system with shop, lottery & storage
-- **[TeamPlugin](https://github.com/DobeShadow/TeamPlugin)** — Lightweight team system with PvP protection, summon & GUI
-- **[FreeResidence](https://github.com/DobeShadow/FreeResidence)** — Free land-claiming plugin for players
-- **[AtPlayer](https://github.com/DobeShadow/AtPlayer)** — @mention plugin with TITLE alert & sound notification in chat
-- **[BaseMessage](https://github.com/DobeShadow/BaseMessage)** — Nukkit BaseMessage utility
+- **[DsBoss](https://github.com/DobeShadow/DsBoss)** 🗡️ Configurable boss plugin with timed spawns, custom drops, rewards & server-wide broadcasts
+- **[DsTeam](https://github.com/DobeShadow/DsTeam)** 👥 Lightweight team system with PvP protection, summon & GUI
+- **[AdvancedFlightHolidayAddon](https://github.com/DobeShadow/AdvancedFlightHolidayAddon)** 🕊️ Holiday/weekend flight energy discount addon for AdvancedFlight
+- **[NoSit](https://github.com/DobeShadow/NoSit)** 🪑 Anti-sit plugin
+- **[ItemBank](https://github.com/DobeShadow/ItemBank)** 🏦 Item banking system with shop, lottery & storage
+- **[FreeResidence](https://github.com/DobeShadow/FreeResidence)** 🏠 Free land-claiming plugin for players
+- **[AtPlayer](https://github.com/DobeShadow/AtPlayer)** 📢 @mention plugin with TITLE alert & sound notification in chat
+- **[BaseMessage](https://github.com/DobeShadow/BaseMessage)** 📨 Nukkit BaseMessage utility
