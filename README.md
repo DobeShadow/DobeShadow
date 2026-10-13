@@ -1,6 +1,6 @@
 # 👋 Hi, there! I'm DobeShadow!
 
-<div>
+<!-- <div>
     <a href="https://github.com/DobeShadow">
         <img src="https://img.shields.io/badge/GitHub-0A0A0A.svg?logo=github&logoColor=white&style=for-the-badge" />
     </a>
@@ -41,4 +41,4 @@
 
 - **[DsBoss](https://github.com/DobeShadow/DsBoss)** 🗡️ Configurable boss plugin with timed spawns, custom drops, rewards & server-wide broadcasts
 - **[DsTeam](https://github.com/DobeShadow/DsTeam)** 👥 Lightweight team system with PvP protection, summon & GUI
-- **[AdvancedFlightHolidayAddon](https://github.com/DobeShadow/AdvancedFlightHolidayAddon)** 🕊️ Holiday/weekend flight energy discount addon for AdvancedFlight
+- **[AdvancedFlightHolidayAddon](https://github.com/DobeShadow/AdvancedFlightHolidayAddon)** 🕊️ Holiday/weekend flight energy discount addon for AdvancedFlight -->
